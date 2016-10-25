@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<VLDocking version="2.1">
+<DockingDesktop name="">
+<DockingPanel>
+<Dockable>
+<Key dockName="mapPanel"/>
+</Dockable>
+</DockingPanel>
+<Border zone="3">
+<Dockable>
+<Key dockName="mapPropertiesPanel"/>
+<RelativePosition x="0.8452631831169128" y="0.0" w="0.15473684668540955" h="1.0" />
+</Dockable>
+<Dockable>
+<Key dockName="planetsPanel"/>
+<RelativePosition x="0.8450000286102295" y="0.5" w="0.1550000011920929" h="0.5" />
+</Dockable>
+<Dockable>
+<Key dockName="fleetsPanel"/>
+<RelativePosition x="0.8450000286102295" y="0.5" w="0.1550000011920929" h="0.5" />
+</Dockable>
+</Border>
+<TabGroups>
+</TabGroups>
+</DockingDesktop>
+</VLDocking>

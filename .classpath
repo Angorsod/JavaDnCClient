@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-0.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-beaninfo-0.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/vldocking_2.1.5.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite.jar" sourcepath="/home/angor/stuck/toys/javasqlite-20150419"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
